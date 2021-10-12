@@ -1,5 +1,5 @@
 variable "instance_name" {
   description = "Name tag of instance"
   type = string
-  default = "TechExercise-EC2"
+  default = "TechExercise-EC2-GitHub"
 }
